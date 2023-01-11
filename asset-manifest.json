@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.370c4f57.css",
-    "main.js": "/static/js/main.2378649a.js",
+    "main.css": "/static/css/main.36c052b3.css",
+    "main.js": "/static/js/main.e5d11592.js",
     "static/css/312.4e38150d.chunk.css": "/static/css/312.4e38150d.chunk.css",
     "static/js/312.3897b382.chunk.js": "/static/js/312.3897b382.chunk.js",
     "static/css/940.9e3d79eb.chunk.css": "/static/css/940.9e3d79eb.chunk.css",
-    "static/js/940.03fdabd3.chunk.js": "/static/js/940.03fdabd3.chunk.js",
+    "static/js/940.d7763ea9.chunk.js": "/static/js/940.d7763ea9.chunk.js",
     "static/media/webApp.png": "/static/media/webApp.87dfbea60bc9a52fbba1.png",
     "static/media/channel.png": "/static/media/channel.cfe569da6d486c633963.png",
     "static/media/python-5-logo-png-transparent.png": "/static/media/python-5-logo-png-transparent.c44b9b809ebf766cbb4f.png",
@@ -30,15 +30,15 @@
     "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "static/media/android-6-512.png": "/static/media/android-6-512.ba3e25738235a56518db.png",
     "index.html": "/index.html",
-    "main.370c4f57.css.map": "/static/css/main.370c4f57.css.map",
-    "main.2378649a.js.map": "/static/js/main.2378649a.js.map",
+    "main.36c052b3.css.map": "/static/css/main.36c052b3.css.map",
+    "main.e5d11592.js.map": "/static/js/main.e5d11592.js.map",
     "312.4e38150d.chunk.css.map": "/static/css/312.4e38150d.chunk.css.map",
     "312.3897b382.chunk.js.map": "/static/js/312.3897b382.chunk.js.map",
     "940.9e3d79eb.chunk.css.map": "/static/css/940.9e3d79eb.chunk.css.map",
-    "940.03fdabd3.chunk.js.map": "/static/js/940.03fdabd3.chunk.js.map"
+    "940.d7763ea9.chunk.js.map": "/static/js/940.d7763ea9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.370c4f57.css",
-    "static/js/main.2378649a.js"
+    "static/css/main.36c052b3.css",
+    "static/js/main.e5d11592.js"
   ]
 }
