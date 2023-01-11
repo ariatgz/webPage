@@ -1,12 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.cc5e19ca.css",
-    "main.js": "/static/js/main.68b203c0.js",
+    "main.css": "/static/css/main.8a5ea5b7.css",
+    "main.js": "/static/js/main.23ce8249.js",
     "static/css/312.71fe5847.chunk.css": "/static/css/312.71fe5847.chunk.css",
     "static/js/312.530799e1.chunk.js": "/static/js/312.530799e1.chunk.js",
-    "static/css/940.2a409d16.chunk.css": "/static/css/940.2a409d16.chunk.css",
-    "static/js/940.fe5be83a.chunk.js": "/static/js/940.fe5be83a.chunk.js",
-    "static/js/675.7c460092.chunk.js": "/static/js/675.7c460092.chunk.js",
+    "static/js/675.94b89e61.chunk.js": "/static/js/675.94b89e61.chunk.js",
     "static/css/31.72f349fb.chunk.css": "/static/css/31.72f349fb.chunk.css",
     "static/js/31.1726a372.chunk.js": "/static/js/31.1726a372.chunk.js",
     "static/media/webApp.png": "/static/media/webApp.87dfbea60bc9a52fbba1.png",
@@ -33,18 +31,16 @@
     "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "static/media/android-6-512.png": "/static/media/android-6-512.ba3e25738235a56518db.png",
     "index.html": "/index.html",
-    "main.cc5e19ca.css.map": "/static/css/main.cc5e19ca.css.map",
-    "main.68b203c0.js.map": "/static/js/main.68b203c0.js.map",
+    "main.8a5ea5b7.css.map": "/static/css/main.8a5ea5b7.css.map",
+    "main.23ce8249.js.map": "/static/js/main.23ce8249.js.map",
     "312.71fe5847.chunk.css.map": "/static/css/312.71fe5847.chunk.css.map",
     "312.530799e1.chunk.js.map": "/static/js/312.530799e1.chunk.js.map",
-    "940.2a409d16.chunk.css.map": "/static/css/940.2a409d16.chunk.css.map",
-    "940.fe5be83a.chunk.js.map": "/static/js/940.fe5be83a.chunk.js.map",
-    "675.7c460092.chunk.js.map": "/static/js/675.7c460092.chunk.js.map",
+    "675.94b89e61.chunk.js.map": "/static/js/675.94b89e61.chunk.js.map",
     "31.72f349fb.chunk.css.map": "/static/css/31.72f349fb.chunk.css.map",
     "31.1726a372.chunk.js.map": "/static/js/31.1726a372.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cc5e19ca.css",
-    "static/js/main.68b203c0.js"
+    "static/css/main.8a5ea5b7.css",
+    "static/js/main.23ce8249.js"
   ]
 }
