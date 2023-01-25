@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.9613df7e.css",
-    "main.js": "/static/js/main.c6245724.js",
+    "main.js": "/static/js/main.8c6a6910.js",
     "static/css/312.71fe5847.chunk.css": "/static/css/312.71fe5847.chunk.css",
     "static/js/312.530799e1.chunk.js": "/static/js/312.530799e1.chunk.js",
-    "static/js/675.94b89e61.chunk.js": "/static/js/675.94b89e61.chunk.js",
+    "static/js/675.ed2398c3.chunk.js": "/static/js/675.ed2398c3.chunk.js",
     "static/css/31.72f349fb.chunk.css": "/static/css/31.72f349fb.chunk.css",
     "static/js/31.1726a372.chunk.js": "/static/js/31.1726a372.chunk.js",
     "static/media/webApp.png": "/static/media/webApp.87dfbea60bc9a52fbba1.png",
@@ -12,7 +12,6 @@
     "static/media/python-5-logo-png-transparent.png": "/static/media/python-5-logo-png-transparent.c44b9b809ebf766cbb4f.png",
     "static/media/dark-code.jpg": "/static/media/dark-code.37443f278446cf25bbae.jpg",
     "static/media/1268196.jpg": "/static/media/1268196.be791e4b21529835f754.jpg",
-    "static/media/me.jpg": "/static/media/me.99240399dfa0cc7eac1e.jpg",
     "static/media/intToEnglish.png": "/static/media/intToEnglish.a244a4746657434150e9.png",
     "static/media/AppGym.png": "/static/media/AppGym.aa647499ee07aa356f3f.png",
     "static/media/AriaGrocery.png": "/static/media/AriaGrocery.35d8f3229ad61cd14cb1.png",
@@ -23,6 +22,7 @@
     "static/media/mobile-dark-code.jpg": "/static/media/mobile-dark-code.e1b37672a3df28641933.jpg",
     "static/media/java-logo-1.png": "/static/media/java-logo-1.fdabd4e11f1235e4e8e0.png",
     "static/media/hacker.png": "/static/media/hacker.cd2e6863e5763050e549.png",
+    "static/media/Peter_Griffin.png": "/static/media/Peter_Griffin.852d0db623ff5fde45be.png",
     "static/media/RestaurantApp.png": "/static/media/RestaurantApp.adbeb91f5200df2a3ea0.png",
     "static/media/crying-Aria.png": "/static/media/crying-Aria.a68630f0eb65f6eb2dd0.png",
     "static/media/HTMLParser.png": "/static/media/HTMLParser.bd0a8e24c524b62fd7db.png",
@@ -32,15 +32,15 @@
     "static/media/android-6-512.png": "/static/media/android-6-512.ba3e25738235a56518db.png",
     "index.html": "/index.html",
     "main.9613df7e.css.map": "/static/css/main.9613df7e.css.map",
-    "main.c6245724.js.map": "/static/js/main.c6245724.js.map",
+    "main.8c6a6910.js.map": "/static/js/main.8c6a6910.js.map",
     "312.71fe5847.chunk.css.map": "/static/css/312.71fe5847.chunk.css.map",
     "312.530799e1.chunk.js.map": "/static/js/312.530799e1.chunk.js.map",
-    "675.94b89e61.chunk.js.map": "/static/js/675.94b89e61.chunk.js.map",
+    "675.ed2398c3.chunk.js.map": "/static/js/675.ed2398c3.chunk.js.map",
     "31.72f349fb.chunk.css.map": "/static/css/31.72f349fb.chunk.css.map",
     "31.1726a372.chunk.js.map": "/static/js/31.1726a372.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9613df7e.css",
-    "static/js/main.c6245724.js"
+    "static/js/main.8c6a6910.js"
   ]
 }
