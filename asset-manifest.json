@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b725dfb5.css",
-    "main.js": "/static/js/main.471d6450.js",
+    "main.css": "/static/css/main.464dcbea.css",
+    "main.js": "/static/js/main.a4b3c54e.js",
     "static/css/312.71fe5847.chunk.css": "/static/css/312.71fe5847.chunk.css",
     "static/js/312.530799e1.chunk.js": "/static/js/312.530799e1.chunk.js",
     "static/js/675.ed2398c3.chunk.js": "/static/js/675.ed2398c3.chunk.js",
@@ -31,8 +31,8 @@
     "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "static/media/android-6-512.png": "/static/media/android-6-512.ba3e25738235a56518db.png",
     "index.html": "/index.html",
-    "main.b725dfb5.css.map": "/static/css/main.b725dfb5.css.map",
-    "main.471d6450.js.map": "/static/js/main.471d6450.js.map",
+    "main.464dcbea.css.map": "/static/css/main.464dcbea.css.map",
+    "main.a4b3c54e.js.map": "/static/js/main.a4b3c54e.js.map",
     "312.71fe5847.chunk.css.map": "/static/css/312.71fe5847.chunk.css.map",
     "312.530799e1.chunk.js.map": "/static/js/312.530799e1.chunk.js.map",
     "675.ed2398c3.chunk.js.map": "/static/js/675.ed2398c3.chunk.js.map",
@@ -40,7 +40,7 @@
     "31.8a9ab0f4.chunk.js.map": "/static/js/31.8a9ab0f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b725dfb5.css",
-    "static/js/main.471d6450.js"
+    "static/css/main.464dcbea.css",
+    "static/js/main.a4b3c54e.js"
   ]
 }
