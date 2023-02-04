@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.464dcbea.css",
-    "main.js": "/static/js/main.a4b3c54e.js",
+    "main.css": "/static/css/main.d53d63dd.css",
+    "main.js": "/static/js/main.2cd4175b.js",
     "static/css/312.71fe5847.chunk.css": "/static/css/312.71fe5847.chunk.css",
     "static/js/312.530799e1.chunk.js": "/static/js/312.530799e1.chunk.js",
-    "static/js/675.ed2398c3.chunk.js": "/static/js/675.ed2398c3.chunk.js",
+    "static/js/760.b29639a2.chunk.js": "/static/js/760.b29639a2.chunk.js",
     "static/css/31.72f349fb.chunk.css": "/static/css/31.72f349fb.chunk.css",
     "static/js/31.8a9ab0f4.chunk.js": "/static/js/31.8a9ab0f4.chunk.js",
     "static/media/webApp.png": "/static/media/webApp.87dfbea60bc9a52fbba1.png",
     "static/media/channel.png": "/static/media/channel.cfe569da6d486c633963.png",
     "static/media/python-5-logo-png-transparent.png": "/static/media/python-5-logo-png-transparent.c44b9b809ebf766cbb4f.png",
+    "static/media/react-logo-png-transparent.png": "/static/media/react-logo-png-transparent.2afe8019efe53a8eff12.png",
     "static/media/dark-code.jpg": "/static/media/dark-code.37443f278446cf25bbae.jpg",
     "static/media/1268196.jpg": "/static/media/1268196.be791e4b21529835f754.jpg",
     "static/media/intToEnglish.png": "/static/media/intToEnglish.a244a4746657434150e9.png",
@@ -21,7 +22,6 @@
     "static/media/1773005.jpg": "/static/media/1773005.edec6439a0c9cbc71500.jpg",
     "static/media/mobile-dark-code.jpg": "/static/media/mobile-dark-code.e1b37672a3df28641933.jpg",
     "static/media/java-logo-1.png": "/static/media/java-logo-1.fdabd4e11f1235e4e8e0.png",
-    "static/media/hacker.png": "/static/media/hacker.cd2e6863e5763050e549.png",
     "static/media/Peter_Griffin.png": "/static/media/Peter_Griffin.852d0db623ff5fde45be.png",
     "static/media/RestaurantApp.png": "/static/media/RestaurantApp.adbeb91f5200df2a3ea0.png",
     "static/media/crying-Aria.png": "/static/media/crying-Aria.a68630f0eb65f6eb2dd0.png",
@@ -31,16 +31,16 @@
     "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "static/media/android-6-512.png": "/static/media/android-6-512.ba3e25738235a56518db.png",
     "index.html": "/index.html",
-    "main.464dcbea.css.map": "/static/css/main.464dcbea.css.map",
-    "main.a4b3c54e.js.map": "/static/js/main.a4b3c54e.js.map",
+    "main.d53d63dd.css.map": "/static/css/main.d53d63dd.css.map",
+    "main.2cd4175b.js.map": "/static/js/main.2cd4175b.js.map",
     "312.71fe5847.chunk.css.map": "/static/css/312.71fe5847.chunk.css.map",
     "312.530799e1.chunk.js.map": "/static/js/312.530799e1.chunk.js.map",
-    "675.ed2398c3.chunk.js.map": "/static/js/675.ed2398c3.chunk.js.map",
+    "760.b29639a2.chunk.js.map": "/static/js/760.b29639a2.chunk.js.map",
     "31.72f349fb.chunk.css.map": "/static/css/31.72f349fb.chunk.css.map",
     "31.8a9ab0f4.chunk.js.map": "/static/js/31.8a9ab0f4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.464dcbea.css",
-    "static/js/main.a4b3c54e.js"
+    "static/css/main.d53d63dd.css",
+    "static/js/main.2cd4175b.js"
   ]
 }
