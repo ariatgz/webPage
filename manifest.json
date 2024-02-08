@@ -3,17 +3,17 @@
   "name": "Arya's Portfolio",
   "icons": [
     {
-      "src": "peter.ico",
+      "src": "stewie_me.png",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-ico"
     },
     {
-      "src": "Peter_Griffin.png",
+      "src": "stewie_me.png",
       "type": "image/ico",
       "sizes": "192x192"
     },
     {
-      "src": "Peter_Griffin.png",
+      "src": "stewie_me.png",
       "type": "image/ico",
       "sizes": "512x512"
     }
