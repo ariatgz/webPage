@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9c014a78.css",
-    "main.js": "/static/js/main.23cb1cc6.js",
+    "main.css": "/static/css/main.c5a410fc.css",
+    "main.js": "/static/js/main.ca2a7ed9.js",
     "static/css/312.71fe5847.chunk.css": "/static/css/312.71fe5847.chunk.css",
     "static/js/312.530799e1.chunk.js": "/static/js/312.530799e1.chunk.js",
-    "static/js/921.599be114.chunk.js": "/static/js/921.599be114.chunk.js",
+    "static/js/728.de0edc8e.chunk.js": "/static/js/728.de0edc8e.chunk.js",
     "static/css/31.72f349fb.chunk.css": "/static/css/31.72f349fb.chunk.css",
     "static/js/31.481a9821.chunk.js": "/static/js/31.481a9821.chunk.js",
     "static/media/webApp.png": "/static/media/webApp.87dfbea60bc9a52fbba1.png",
@@ -34,17 +34,18 @@
     "static/media/pngfind.com-web-designing-icon-png-1706361.png": "/static/media/pngfind.com-web-designing-icon-png-1706361.30df9950ea76a8017957.png",
     "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.746ec8f0bc97208f903e.png",
     "static/media/android-6-512.png": "/static/media/android-6-512.ba3e25738235a56518db.png",
+    "static/media/LinkedIn_logo_initials.png": "/static/media/LinkedIn_logo_initials.68ac41e1459436bfd38f.png",
     "index.html": "/index.html",
-    "main.9c014a78.css.map": "/static/css/main.9c014a78.css.map",
-    "main.23cb1cc6.js.map": "/static/js/main.23cb1cc6.js.map",
+    "main.c5a410fc.css.map": "/static/css/main.c5a410fc.css.map",
+    "main.ca2a7ed9.js.map": "/static/js/main.ca2a7ed9.js.map",
     "312.71fe5847.chunk.css.map": "/static/css/312.71fe5847.chunk.css.map",
     "312.530799e1.chunk.js.map": "/static/js/312.530799e1.chunk.js.map",
-    "921.599be114.chunk.js.map": "/static/js/921.599be114.chunk.js.map",
+    "728.de0edc8e.chunk.js.map": "/static/js/728.de0edc8e.chunk.js.map",
     "31.72f349fb.chunk.css.map": "/static/css/31.72f349fb.chunk.css.map",
     "31.481a9821.chunk.js.map": "/static/js/31.481a9821.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c014a78.css",
-    "static/js/main.23cb1cc6.js"
+    "static/css/main.c5a410fc.css",
+    "static/js/main.ca2a7ed9.js"
   ]
 }
